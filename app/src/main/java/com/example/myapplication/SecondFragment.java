@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
 import com.example.myapplication.databinding.FragmentSecondBinding;
-
+// pas super le code
 public class SecondFragment extends Fragment {
 
     private FragmentSecondBinding binding;
